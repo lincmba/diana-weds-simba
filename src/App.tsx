@@ -7,10 +7,10 @@ function App() {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage: 'url(/collage.jpg)',
-          opacity: 0.10,
+          WebkitMaskImage: 'radial-gradient(circle, rgba(0,0,0,0.2) 30%, rgba(0,0,0,1) 100%)',
+          maskImage: 'radial-gradient(circle, rgba(0,0,0,0.1) 40%, rgba(0,0,0,1) 100%)',
         }}
-      >
-      </div>
+        />
 
       <div className="relative h-full flex flex-col items-center justify-center px-6" style={{ color: '#1a3a52' }}>
         <div className="text-center space-y-8 max-w-2xl">
