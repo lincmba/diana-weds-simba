@@ -50,7 +50,7 @@ function App() {
                 href="https://paywith.nobuk.africa/hufdcqecnd"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block px-10 py-4 bg-gradient-to-r from-amber-700 to-amber-800 text-white text-sm md:text-base tracking-widest uppercase font-light rounded-full shadow-lg hover:shadow-xl hover:from-amber-800 hover:to-amber-900 transition-all duration-300 transform hover:scale-105"
+                className="inline-block px-10 py-4 bg-gradient-to-r from-amber-700 to-amber-800 text-white text-sm md:text-base tracking-widest uppercase font-light rounded-full shadow-lg hover:shadow-xl hover:from-amber-800 hover:to-amber-900 transition-all duration-300 animate-blink hover:animate-none hover:scale-105"
             >
               Send Your Love & Support
               </a>

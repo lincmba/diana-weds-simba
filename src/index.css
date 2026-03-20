@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* 🔥 Blinking CTA animation */
+@keyframes blinkCTA {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.2);
+  }
+  50% {
+    transform: scale(1.08);
+    box-shadow: 0 20px 25px rgba(0,0,0,0.35);
+  }
+}
+
+.animate-blink {
+  animation: blinkCTA 1.5s ease-in-out infinite;
+}
