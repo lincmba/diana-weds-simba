@@ -56,7 +56,7 @@ function App() {
               </a>
             </div>
 
-            <p className="text-sm sm:text-base italic pt-4 font-semibold" style={{ fontFamily: "'Cormorant Garamond', serif", color: '#1a3a52', opacity: 0.75 }}>
+            <p className="text-base sm:text-lg italic pt-4 font-semibold" style={{ fontFamily: "'Cormorant Garamond', serif", color: '#1a3a52', opacity: 0.85 }}>
                Your presence will mean the world to us,
                <br className="hidden sm:block" />
                and any support towards our new beginning will be deeply appreciated.
