@@ -7,7 +7,7 @@ function App() {
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
           backgroundImage: 'url(/collage.jpg)',
-          opacity: 0.15,
+          opacity: 0.10,
         }}
       >
       </div>
