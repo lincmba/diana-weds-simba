@@ -42,7 +42,7 @@ function App() {
             </p>
 
             <p className="text-3xl sm:text-4xl md:text-5xl font-light tracking-widest" style={{ fontFamily: "'Playfair Display', serif", color: '#1a3a52' }}>
-              2<sup className="text-2xl">nd</sup> June 2026
+              7<sup className="text-2xl">th</sup> June 2026
             </p>
 
             <div className="pt-8">
